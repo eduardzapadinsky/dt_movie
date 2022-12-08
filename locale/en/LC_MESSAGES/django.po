@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-26 13:07+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\movies\templates\movies\movie_detail.html:25
+msgid "Рік"
+msgstr "Year"
+
+#: .\movies\templates\movies\movie_detail.html:27
+msgid "Країна"
+msgstr "Country"
+
+#: .\movies\templates\movies\movie_detail.html:30
+msgid "Слоган"
+msgstr "Slogan"
+
+#: .\movies\templates\movies\movie_detail.html:33
+msgid "Режисер"
+msgstr "Director"
+
+#: .\movies\templates\movies\movie_detail.html:41
+msgid "Актори"
+msgstr "Actors"
+
+#: .\movies\templates\movies\movie_detail.html:49
+msgid "Жанр"
+msgstr "Genre"
+
+#: .\movies\templates\movies\movie_detail.html:56
+msgid "Прем'єра в світі"
+msgstr "World premiere"
+
+#: .\movies\templates\movies\movie_detail.html:59
+msgid "Бюджет"
+msgstr "Budget"
+
+#: .\movies\templates\movies\movie_detail.html:61
+msgid "Збори в США"
+msgstr "Box office in the USA"
+
+#: .\movies\templates\movies\movie_detail.html:63
+msgid "Збори у світі"
+msgstr "Worlds box office"
+
+#: .\movies\templates\movies\movie_detail.html:67
+msgid "Рейтинг"
+msgstr "Rating"
+
+#: .\movies\templates\movies\movie_detail.html:116
+msgid "Про що фільм"
+msgstr "Plot"
+
+#: .\movies\templates\movies\movie_detail.html:146
+msgid "Залишити відгук"
+msgstr "Leave message"
+
+#: .\movies\templates\movies\movie_detail.html:153
+msgid "Ваш коментар*"
+msgstr "Your comment"
+
+#: .\movies\templates\movies\movie_detail.html:160
+msgid "Ім'я*"
+msgstr "Name"
+
+#: .\movies\templates\movies\movie_detail.html:174
+msgid "Надіслати"
+msgstr "Send"
+
+#: .\movies\templates\movies\movie_detail.html:192
+msgid "Відповісти"
+msgstr "Reply"
